@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "userName": "anhtien",
+      "fullName": "Phạm Anh Tiến",
+      "password": "123456789",
+      "email": "anhtien27722@gmail.com",
+      "role": 1,
+      "status": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "userName": "anhtien2",
+      "fullName": "Phạm Anh Tiến2",
+      "password": "123456",
+      "email": "bnhtien27722@gmail.com",
+      "role": 3,
+      "status": false
+    },
+    {
+      "id": 3,
+      "userName": "anhtienpham",
+      "fullName": "Pham Tien",
+      "password": "Anhtien@123",
+      "email": "anhtien@gmail.com",
+      "role": 3,
+      "status": false
+    }
+  ]
+}
